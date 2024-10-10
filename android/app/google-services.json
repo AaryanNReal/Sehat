@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "128801015808",
+    "project_id": "sehat-c5250",
+    "storage_bucket": "sehat-c5250.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:128801015808:android:4a1775a1ba4a932f1ab0e5",
+        "android_client_info": {
+          "package_name": "com.example.sehat_prototype2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhEMI6XqVzCk0EZ3W_2Xv73mgV3sZC69U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

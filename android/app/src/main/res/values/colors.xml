@@ -1,0 +1,4 @@
+<!-- android/app/src/main/res/values/colors.xml -->
+<resources>
+    <color name="colorAccent">#FF4081</color> <!-- Replace with your desired color -->
+</resources>

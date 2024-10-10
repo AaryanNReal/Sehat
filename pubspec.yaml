@@ -1,0 +1,58 @@
+name: card
+description: "A new Flutter project."
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.5.0
+
+dependencies:
+  flutter:
+    sdk: flutter
+  barcode_scan2: ^4.1.3
+  cupertino_icons: ^1.0.8
+  http: ^1.2.2
+  mobile_scanner: ^2.0.0
+  firebase_core: ^2.24.2
+  shared_preferences: ^2.0.6
+  fl_chart: ^0.69.0
+  flutter_svg: ^2.0.10+1
+  video_player: ^2.9.1
+  audioplayers: ^6.1.0
+  youtube_player_flutter: ^9.0.3
+  permission_handler: ^11.3.1
+  pedometer: ^4.0.2
+  firebase_auth: ^4.16.0
+  google_sign_in: ^6.2.1
+  cloud_firestore: ^4.17.5
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+  flutter_launcher_icons: ^0.11.0
+
+flutter_icons:
+  android: true
+  ios: true
+  image_path: "assets/logo.jpg"
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/pushup.gif
+    - assets/squat.gif
+    - assets/plank.gif
+    - assets/leg.gif
+    - assets/gluets.gif
+    - assets/climbers.gif
+    - assets/burpes.gif
+    - assets/lunges.gif
+    - assets/walking.gif
+    - assets/running.gif
+    - assets/cycle.gif
+    - assets/jump.gif
+    - assets/sound/audio.mp3
+    - assets/sound/button.mp3
